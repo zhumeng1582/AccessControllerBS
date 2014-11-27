@@ -1,0 +1,6 @@
+E:\AccessController\AccessControllerBS\AccessControllerBS\bin\AccessControllerBS.dll.config
+E:\AccessController\AccessControllerBS\AccessControllerBS\bin\AccessControllerBS.dll
+E:\AccessController\AccessControllerBS\AccessControllerBS\bin\AccessControllerBS.pdb
+E:\AccessController\AccessControllerBS\AccessControllerBS\obj\Debug\AccessControllerBS.dll
+E:\AccessController\AccessControllerBS\AccessControllerBS\obj\Debug\AccessControllerBS.pdb
+E:\AccessController\AccessControllerBS\AccessControllerBS\obj\Debug\AccessControllerBS.csprojResolveAssemblyReference.cache
